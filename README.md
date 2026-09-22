@@ -45,7 +45,6 @@
 <br/>
 
 <div align="center">
-<br/>
 
 <sub>
 Mostly Rust and C++. Python for small scripts, Assembly for experimentation.
@@ -54,6 +53,11 @@ Mostly Rust and C++. Python for small scripts, Assembly for experimentation.
 </div>
 
 <br/>
+
+# Current Project
+* **Rebuilding common GUIs as TUIs using only Win32 and the Rust standard library.**
+  
+* Notepad / Text Editor: https://github.com/enesx32/Tidy-2.0 or https://github.com/enesx32/Tidy *If you want the older version*
 
 ## `> about`
 
@@ -65,42 +69,3 @@ Most of what I build starts with a simple question:
 
 That usually turns into a project.
 
-<br/>
-
-## `> interests`
-
-<div align="center">
-
-|                 |                                         |
-| --------------- | --------------------------------------- |
-| **Rust**        | Systems, libraries & CLI applications   |
-| **C++**         | Low-level programming & experimentation |
-| **Terminal**    | TUIs, ANSI graphics & developer tools   |
-| **Systems**     | OS development & computer architecture  |
-| **Low-Level**   | Memory, hardware & things underneath    |
-| **Experiments** | Assembly, electronics & random ideas    |
-
-</div>
-
-<br/>
-
-## `> currently_building`
-
-* **Current Project** - Rebuilding common GUIs in a TUI only using Win32 or the Rust standard library
-* **Terminal applications** - TUIs, system monitors
-* **Rust libraries** - Reusable components for terminal applications
-* **Operating-system experiments** - Learning how computers work from the ground up
-* **Low-level projects** - Experimenting with C++, Assembly and hardware
-* **Developer tools** - Small utilities that solve problems I actually have
-
-<br/>
-
-### `> philosophy`
-
-**Build it. Break it. Understand it. Rebuild it better.**
-
-<br/><br/>
-
-<sub>Still learning. Still experimenting. Still making things that probably didn't need to exist.</sub>
-
-</div>
