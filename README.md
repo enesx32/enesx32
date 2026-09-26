@@ -58,8 +58,9 @@ Mostly Rust and C++. Python for small scripts, Assembly for experimentation.
 * **Rebuilding common GUIs as TUIs using only Win32 and the Rust standard library.**
   
 * Notepad / Text Editor: https://github.com/enesx32/Tidy-2.0 or https://github.com/enesx32/Tidy *If you want the older version*
+* Task Manager : https://github.com/enesx32/ttasks
 
-## `> about`
+## about
 
 I'm interested in **systems programming, low-level software, terminal applications, and computer architecture**.
 
