@@ -57,7 +57,7 @@ Mostly Rust and C++. Python for small scripts, Assembly for experimentation.
 # Current Project
 * **Creating a custom OS called zinc**
   
-## about
+# about
 
 I'm interested in **systems programming, low-level software, terminal applications, and computer architecture**.
 
