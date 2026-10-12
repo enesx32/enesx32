@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./header_but_transparent.png" alt="enesx32" />
+<img src="./header.png" alt="enesx32" />
 
 <br/>
 
