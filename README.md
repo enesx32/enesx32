@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./header.png" alt="enesx32" />
+<img src="./Screenshot_20261122_134835-removebg-preview.png" alt="enesx32" />
 
 <br/>
 
@@ -31,11 +31,11 @@
 <tr>
 <td><b>Tools</b></td>
 <td>
-<img src="https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white" />
+<img src="https://img.shields.io/badge/Artix_Linux-1793D1?style=flat-square&logo=archlinux&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/Tidy-c47f10?style=flat-square&logo=visualstudiocode&logoColor=white" />
-<img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" />
-<img src="https://img.shields.io/badge/Vim-019733?style=flat-square" />
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
+<img src="https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white" />
+<img src="https://img.shields.io/badge/Fish-5391FE?style=flat-square&logo=powershell&logoColor=white" />
 </td>
 </tr>
 </table>
@@ -54,9 +54,13 @@ Mostly Rust and C++. Python for small scripts, Assembly for experimentation.
 
 <br/>
 
-# Current Project
-* **Creating a custom OS called zinc**
-  
+## Current Projects
+
+### Zinc Desktop
+A continuation of Zinc OS, rebuilt with a focus on a desktop environment.
+
+### Astral Client
+A Counter-Strike 2 client forked from [avitran0](https://github.com/avitran0/deadlocked).
 # about
 
 I'm interested in **systems programming, low-level software, terminal applications, and computer architecture**.
